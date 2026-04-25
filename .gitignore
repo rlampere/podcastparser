@@ -8,3 +8,7 @@ htmlcov
 .idea
 podcastparser.egg-info
 .vscode
+.vs/
+*.pyproj
+*.suo
+*.slnx
